@@ -6,7 +6,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
  
 public class JdbcConnection {
- 
     public static void main(String a[]){
          
         try {
